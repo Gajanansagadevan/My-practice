@@ -15,5 +15,6 @@ public class LargestOfTwo {
         } else {
             System.out.println("Both numbers are equal");
         }
+        sc.close();
     }
 }
