@@ -15,7 +15,7 @@ public class GradeCalculator {
         } else if (marks >= 60) {
             grade = 'C';
         } else if (marks >= 40) {
-            grade = 'D';
+            grade = 'S';
         } else {
             grade = 'F';
         }
